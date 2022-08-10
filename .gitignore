@@ -3,3 +3,4 @@
 *.p
 student.ipynb
 *.py
+*.pth
